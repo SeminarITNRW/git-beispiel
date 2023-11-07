@@ -3,3 +3,4 @@ Beispiel Test
 Test für die Schalter -a und -m
 für die Änderung bei Stage und commit
 Änderung während Stage
+Schalter zur Änderung
