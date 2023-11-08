@@ -2,4 +2,6 @@ neuer Branch "neuerZweig"
 erneute Änderung im neuen Zweig
 Änderung im Master
 und Änderung im neuen Zweig
+rebase im neuenZweig
+
 
