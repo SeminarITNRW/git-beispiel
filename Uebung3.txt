@@ -1,0 +1,18 @@
+Übungsaufgaben
+
+1. Erstellen Sie ein neues Repository auf GitHub. Fügen Sie eine Date i
+im Hauptzweig ein. Merken Sie sich die Adresse und klonen Sie das
+Repository.
+
+2. Wechseln Sie in das geklonte Repository und erstellen Sie darin einen Commit. Übertragen Sie die Inhalte in das Remote-Repository.
+Verwenden Sie hierfür nicht die URL, sondern den Namen des Remote-Repositorys.
+
+3. Ändern Sie die automatisch vergebene Standard-Bezeichnung für das
+Remote-Repository zu meineQuelle ab. Ändern Sie daraufhin die URL
+für den push-Befehl so ab, dass sie das SSH-Protokoll verwendet.
+
+4. Erstellen Sie einen neuen Zweig im lokalen Repository und erstellen Sie darin einen Commit. Übertragen sie diesen daraufhin in Ihr
+GitHub-Repository.
+
+5. Führen Sie eine Änderung in Ihrem Repository direkt über die OnlinePlattform durch. Verändern Sie dabei beide Zweige. Übernehmen Sie die
+Anpassungen daraufhin direkt in Ihr lokales Repository
