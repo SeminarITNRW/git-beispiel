@@ -6,15 +6,4 @@ DB war hier
 enter 
 und 
 enter
-
-
-
-
-
-
-
-
-
-
 Jannik ist total cool
->>>>>>> bf91b73b8c9b4171cb9bacf2072838554da75cc4
