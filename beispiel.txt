@@ -2,21 +2,10 @@ Hello World
 Test für die Schalter -a und -m
 für die Änderung bei Stage und comährend Stage
 ich hab was verändert
-<<<<<<< HEAD
 LN: Hallo! :)
-
+DB war hier
 enter 
 und 
 enter
-
-
-
-
-
-
-
-
-
-
 Jannik ist total cool
 
