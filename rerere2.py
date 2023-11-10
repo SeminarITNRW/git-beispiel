@@ -1,1 +1,1 @@
-print("Albert ist der Bruder von Herbert")
+print("Helge ist der Bruder von Herbert")
