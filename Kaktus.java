@@ -5,7 +5,7 @@ import java.awt.Graphics;
 import java.awt.Rectangle;
 import java.awt.image.BufferedImage;
 
-//HAB DEN KOMEMNTAR GEÄNDERT LOL!
+// Klasse angelegt und erbt die astrabkte Klasse Gegner
 public class Kaktus extends Gegner{
 
 	// Attribute Gesetzt
